@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1494662650 source:c:\users\santos\documents\my files\paolo santos\1st year\2nd sem\comsci 21\chess project\chess with ai\pieces.cpp
+	<iostream>
+	<sstream>
+	"Pieces.h"
+
+1494679391 c:\users\santos\documents\my files\paolo santos\1st year\2nd sem\comsci 21\chess project\chess with ai\pieces.h
+	<iostream>
+
+1495639006 source:c:\users\santos\documents\my files\paolo santos\1st year\2nd sem\comsci 21\chess project\chess with ai\chessmain.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<ctime>
+	"Pieces.h"
+

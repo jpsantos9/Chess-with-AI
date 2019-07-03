@@ -1,0 +1,31 @@
+User's Manual
+
+How to launch the game?
+  1) Open CodeBlocks
+  2) Drag the ChessProject file to CodeBlocks
+     or 
+  2) Click file
+  3) Click open
+  4) Find ChessProject file
+  5) Open ChessProject
+
+How to play the game?
+  1) Enter [1] to play versus the AI
+  2) Enter [2] to play with another player
+  3) Enter [3] to display the user's manual
+  4) Enter [4] to quit the game
+
+How to play vs AI?
+  1) Enter the piece you will move 
+  2) Enter your move
+  3) Wait for the AI's move
+  4) Repeat until the king is defeated 
+
+How to play with another player?
+  1) Start with white player
+  2) Enter piece for white
+  3) Enter move 
+  4) Change to next player
+  5) Enter piece for black
+  6) Enter move
+  7) Repeat until one king is defeated
